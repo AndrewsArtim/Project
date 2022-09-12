@@ -1,0 +1,40 @@
+{
+    "courses" : [
+        {
+            "id" : 1,
+            "name" : "Free",
+            "features" : [
+                "Free e-book for every class",
+                "Materials update every day",
+                "Free download material videos",
+                "Unlock 5 material videos"
+            ],
+            "price" :  0
+        },
+        {
+            "id" : 2,
+            "name" : "Express",
+            "features" : [
+                "Free e-book for every class",
+                "Materials update every day",
+                "Free download material videos",
+                "Meeting 2 times a week",
+                "Unlock 15 material videos"
+            ],
+            "price" :  75
+        },
+        {
+            "id" : 3,
+            "name" : "Premium",
+            "features" : [
+                "Free e-book for every class",
+                "Materials update every day",
+                "Free download material videos",
+                "Meeting 3 times a week",
+                "Unlock 30 material videos",
+                "Unlimited saved class"
+            ],
+            "price" : 115
+        }
+    ]
+}
